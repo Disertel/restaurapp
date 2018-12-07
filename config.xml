@@ -49,5 +49,5 @@
 
     
     <access origin="*" subdomains="true" />
-	<content src="http://disertel.com/" />
+	<content src="https://disertel.com/" />
 </widget>
